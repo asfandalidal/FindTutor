@@ -38,7 +38,20 @@
    ```bash
    git clone https://github.com/asfandalidal/find-tutor.git
    cd find-tutor
+## Screenshots
 
-📷 Screenshots
+### Main Screen
+![Main Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/main_screen.jpg)
 
-![Main Screen](https://github.com/user-attachments/assets/39c63552-3e6b-4292-8eba-dc1ab499f1a0 | width=100) ![Profile Screen](https://github.com/user-attachments/assets/0b478283-5449-4e93-979e-d4bc48b263d6 | width=100) ![Splash Screen](https://github.com/user-attachments/assets/fcd779d4-dcea-43ca-b981-4b9cb67bbe02 | width=100) ![Sign Up Screen](https://github.com/user-attachments/assets/29188b02-4e84-472d-8310-a4526cb9fc19 | width=100)
+### Profile Screen
+![Profile Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/profile.jpg)
+
+### Sign Up Screen
+![Sign Up Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/sign_up.jpg)
+
+### Splash Screen
+![Splash Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/splash_screen.jpg)
+
+### Tutor List
+![Tutor List](https://github.com/asfandalidal/FindTutor/blob/main/assets/tutor_list.jpg)
+
