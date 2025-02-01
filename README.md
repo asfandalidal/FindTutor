@@ -38,20 +38,28 @@
    ```bash
    git clone https://github.com/asfandalidal/find-tutor.git
    cd find-tutor
-## Screenshots
+### Screenshots
 
-### Main Screen
-![Main Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/main_screen.jpg)
+<img src="https://github.com/asfandalidal/FindTutor/blob/main/main_screen.jpg" width="300" />
+<img src="https://github.com/asfandalidal/FindTutor/blob/main/profile.jpg" width="300" />
+<img src="https://github.com/asfandalidal/FindTutor/blob/main/sign_up.jpg" width="300" />
+<img src="https://github.com/asfandalidal/FindTutor/blob/main/splash_screen.jpg" width=300" />
+<img src="https://github.com/asfandalidal/FindTutor/blob/main/tutor_list.jpg" width="300" />
 
-### Profile Screen
-![Profile Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/profile.jpg)
+## 🔥 Future Improvements
 
-### Sign Up Screen
-![Sign Up Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/sign_up.jpg)
+- In-app chat system 💬
+- Tutor booking & availability management 📅
+- Advanced search & filters for finding tutors 🔍
+- User reviews & ratings ⭐
 
-### Splash Screen
-![Splash Screen](https://github.com/asfandalidal/FindTutor/blob/main/assets/splash_screen.jpg)
+## 🤝 Feel Free to Contribute
 
-### Tutor List
-![Tutor List](https://github.com/asfandalidal/FindTutor/blob/main/assets/tutor_list.jpg)
+We welcome contributions! If you have any suggestions or improvements, feel free to fork this repository, create a branch, and submit a pull request. 
+
+You can also report issues, suggest features, or improve the documentation.
+
+Let's collaborate and make this app even better! 🚀
+
+
 
